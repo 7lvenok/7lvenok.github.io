@@ -1,0 +1,79 @@
+
+
+
+body {
+    
+    background: url(zemlya3.jpg) no-repeat center fixed;
+    background-size: cover;
+	  margin-left:170;
+	  margin-right:170;
+}
+
+header {
+  background-color: #c0c0c0;
+  color: white;
+  padding: 5px;
+}
+
+  .navbar {
+    background-color: #a9a9a9;
+    height: 50px;
+  }
+  
+ 
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav {
+    float: right;
+    margin: 0;
+  }
+  
+ 
+  
+  
+  li {
+    display: inline;
+    padding: 15px;
+  }
+  
+  
+  nav a {
+    text-decoration: none;
+    color: #353535;
+    display: inline-block;
+    padding-top: 15px;
+  }
+  
+  nav a:hover {
+    color: #00b2b2;
+  }
+  
+  
+
+.box {
+  height: 3000px;
+  min-width: 500px;
+  background:#9a9a9a ;
+  display: flex;
+  flex-direction: column;
+  background: #9a9a9a ;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+  }
+
+  
+
+
+  
+  footer {
+    background-color:#a9a9a9;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
